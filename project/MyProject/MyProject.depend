@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641679087 source:e:\project\myproject\main.c
+	<stdio.h>
+
+1641673372 e:\project\myproject\info.h
+
+1641675459 source:e:\project\myproject\swap.c
+
